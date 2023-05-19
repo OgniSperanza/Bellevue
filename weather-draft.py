@@ -3,7 +3,7 @@ from urllib.request import urlopen
 from http.client import responses
 import json
 
-apiKey = "15255ee8bfd616bc8e441625e2411506"
+apiKey = "oops"
 
 def main():
     while True:
